@@ -1,5 +1,5 @@
 # MURTreeFormer
-## Multi-modal Uncertainty Robust Tree Cover Segmentation For High-Resolution Remote Sensing Images##
+## Multi-modal Uncertainty Robust Tree Cover Segmentation For High-Resolution Remote Sensing Images
 
 This project provides the code of MURTreeFormer, and the reprint paper link is "https://arxiv.org/pdf/2509.04870"
 
